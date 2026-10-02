@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026.10.02.3
+- Revalidated Phaser 4 against official release/repository evidence.
+- Registry now records Phaser 4.0.0 and 28 official Agent Skills plus the v3-to-v4 migration skill.
+- Added `lastVerified`, evidence URL, and evidence summary to the Phaser Agent Skills registry item.
+
 ## 2026.10.02.2
 - Added `WORK-UPDATE-PROTOCOL.md` for repeatable AI/Work-driven updates.
 - Added `FRIEND-SETUP.md` for shared intelligence + separate private-memory onboarding.
