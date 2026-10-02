@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.10.02.2
+- Added `WORK-UPDATE-PROTOCOL.md` for repeatable AI/Work-driven updates.
+- Added `FRIEND-SETUP.md` for shared intelligence + separate private-memory onboarding.
+
 ## 2026.10.02.1
 - Initial public Shared layer created.
 - Added universal `AGENTS.md` bootstrap.
