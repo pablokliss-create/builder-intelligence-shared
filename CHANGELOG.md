@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.10.03.1
+- Revalidated Context7 against official releases: ctx7 0.5.12 and MCP 4.1.1 recorded; remains candidate pending project benchmark.
+- Revalidated Floot against official changelog/export/self-hosting docs: connector, zip import, mobile builds, code/database export, and the migration burden of `@floot/*` managed services recorded; remains candidate pending hands-on benchmark.
+
 ## 2026.10.02.4
 - Strengthened the ChatGPT Work adapter to load an authorized private-memory overlay separately from Shared.
 - Added explicit precedence and write-back rules so Work can combine Shared + private memory + project reality without leaking private context.

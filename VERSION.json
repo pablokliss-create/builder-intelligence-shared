@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "intelligenceVersion": "2026.10.02.4",
-  "generatedAt": "2026-10-02T19:51:13-03:00",
+  "intelligenceVersion": "2026.10.03.1",
+  "generatedAt": "2026-10-03T10:17:00-03:00",
   "channel": "stable",
   "source": "Builder Intelligence",
   "updatePolicy": "diff-first, evidence-preserving",
